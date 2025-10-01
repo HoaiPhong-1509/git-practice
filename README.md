@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là Nguyễn Hoài Phong, MSSV 224397.
+Giới thiệu: Tôi là Nguyễn Hoài Phong, day la nhanh conflict.

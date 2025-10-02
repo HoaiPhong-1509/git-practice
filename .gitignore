@@ -1,0 +1,5 @@
+# Bỏ qua thư mục log
+log/
+
+# Bỏ qua tất cả file đuôi .log
+*.log
